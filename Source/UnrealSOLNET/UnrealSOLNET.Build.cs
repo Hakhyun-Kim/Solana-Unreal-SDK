@@ -49,6 +49,8 @@ public class UnrealSOLNET : ModuleRules {
 			"AssetRegistry",
 			"CoreUObject",
 			"Engine",
+			"XRBase",
+			"LiveLinkSequencer",
 			"HeadMountedDisplay",
 			"InputCore",
 			"Slate",
